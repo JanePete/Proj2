@@ -1,0 +1,106 @@
+.clearfix::before,
+.clearfix::after {
+    content: ' ';
+    display: table;
+}
+
+.clearfix::after {
+    clear: both;
+}
+
+.container {
+    background: #1a001a;
+    height: 440px;
+    width: 640px;
+}
+
+div.container {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: .02px;
+}
+
+.watch {
+    float: right;
+}
+
+img {
+    height: auto;
+    width: 160px;
+    vertical-align: text-top;
+}
+
+.border {
+    border-style: solid;
+    border-color: #ff8080;
+    margin: 10px 11px;
+    padding: 7px;
+    position: relative;
+}
+
+h1 {
+    color: #ffe6e6;
+    font-family: 'Futura', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+a {
+    font-family: 'Futura', sans-serif;
+    color: #ffe6e6;
+    font-weight: normal;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.details {
+    float: right;
+}
+
+.movie-length {
+    display: inline-block;
+    font-family: 'Futura', sans-serif;
+    color: #ff8080;
+    font-weight: normal;
+    font-size: 15px;
+    padding: 20px;
+    margin: 0px 50px;
+}
+
+.rating {
+    display: inline-block;
+    font-family: 'Futura', sans-serif;
+    color: #ffe6e6;
+    font-weight: normal;
+    font-size: 13px;
+    transform: rotate(-90deg);
+    margin: -10px -40px;
+}
+
+.R {
+    font-family: 'Futura', sans-serif;
+    color: #ff8080;
+    font-weight: normal;
+    font-size: 35px;
+    padding: 20px;
+    margin: 0px 10px;
+}
+
+.Rotten-tomatoes {
+    display: inline-block;
+    font-family: 'Futura', sans-serif;
+    color: #ff8080;
+    font-weight: normal;
+    font-size: 20px;
+
+
+}
+
+.credit {
+    display: inline-block;
+    font-family: 'Futura', sans-serif;
+    color: #ffe6e6;
+    font-weight: normal;
+    font-size: 15px;
+    margin: 0px 0px;
+}
