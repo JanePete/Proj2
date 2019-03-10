@@ -64,7 +64,7 @@ a {
     font-weight: normal;
     font-size: 15px;
     padding: 20px;
-    margin: 0px 50px;
+    margin: 0.1px 50px;
 }
 
 .rating {
@@ -83,7 +83,7 @@ a {
     font-weight: normal;
     font-size: 35px;
     padding: 20px;
-    margin: 0px 10px;
+    margin: 0.1px 10px;
 }
 
 .Rotten-tomatoes {
@@ -102,5 +102,5 @@ a {
     color: #ffe6e6;
     font-weight: normal;
     font-size: 15px;
-    margin: 0px 0px;
+    margin: 0.1px 0.1px;
 }
