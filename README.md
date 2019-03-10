@@ -2,7 +2,7 @@
 This is my Project 2
 
 Context for Design:
-My movie card is very compatible and suited to Movies styled and directed by Wes Anderson, but they are also able to display any type of movie and it's information. I have used a readable typeface and dark backgroud to enhance it's performance across the viewer's screen. This card could be seen on a website used to browse and buy movies. 
+My movie card is particularly compatible and suited to movies styled and directed by Wes Anderson, but they are also able to display any type of movie and it's information. I have used a readable typeface and dark backgroud to enhance it's performance across the viewer's screen. This card could be seen on a website used to browse and buy movies. 
 
 
 
